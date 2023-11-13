@@ -16,12 +16,12 @@ This is a Line Bot powered by OpenAI's GPT-3 model. The bot can simulate human-l
 
 2. Clone this repository to your local machine:
     ```
-    git clone https://github.com/your-repository/chatgpt-linebot.git
+    git clone https://github.com/Tunahaha/GPT.git
     ```
 
 3. Switch to the directory of the repository you just cloned:
     ```
-    cd chatgpt-linebot
+    cd gpt
     ```
 
 4. Install the required Python libraries:
